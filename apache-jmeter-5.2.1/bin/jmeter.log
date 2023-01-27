@@ -1,0 +1,53 @@
+2023-01-25 13:15:30,130 INFO o.a.j.u.JMeterUtils: Setting Locale to en_IN
+2023-01-25 13:15:30,170 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-01-25 13:15:30,171 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-01-25 13:15:30,173 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2023-01-25 13:15:30,174 INFO o.a.j.JMeter: Version 5.2.1
+2023-01-25 13:15:30,174 INFO o.a.j.JMeter: java.version=11.0.16.1
+2023-01-25 13:15:30,174 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-01-25 13:15:30,174 INFO o.a.j.JMeter: os.name=Windows 7
+2023-01-25 13:15:30,175 INFO o.a.j.JMeter: os.arch=amd64
+2023-01-25 13:15:30,175 INFO o.a.j.JMeter: os.version=6.1
+2023-01-25 13:15:30,175 INFO o.a.j.JMeter: file.encoding=Cp1252
+2023-01-25 13:15:30,175 INFO o.a.j.JMeter: java.awt.headless=null
+2023-01-25 13:15:30,175 INFO o.a.j.JMeter: Max memory     =1040187392
+2023-01-25 13:15:30,176 INFO o.a.j.JMeter: Available Processors =4
+2023-01-25 13:15:30,203 INFO o.a.j.JMeter: Default Locale=English (India)
+2023-01-25 13:15:30,204 INFO o.a.j.JMeter: JMeter  Locale=English (India)
+2023-01-25 13:15:30,204 INFO o.a.j.JMeter: JMeterHome=C:\Users\ACER\Downloads\apache-jmeter-5.2.1
+2023-01-25 13:15:30,204 INFO o.a.j.JMeter: user.dir  =C:\Users\ACER\Downloads\apache-jmeter-5.2.1\bin
+2023-01-25 13:15:30,205 INFO o.a.j.JMeter: PWD       =C:\Users\ACER\Downloads\apache-jmeter-5.2.1\bin
+2023-01-25 13:15:30,207 INFO o.a.j.JMeter: IP: 192.168.1.4 Name: ACER-PC FullName: ACER-PC
+2023-01-25 13:15:30,547 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2023-01-25 13:15:30,560 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2023-01-25 13:15:30,560 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2023-01-25 13:15:30,677 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-01-25 13:15:32,235 INFO o.j.r.JARSourceHTTP: Found cached repo
+2023-01-25 13:15:32,287 INFO o.a.j.JMeter: Loading file: C:\apache-jmeter-5.4.3\bin\JpetstoreNongui.jmx
+2023-01-25 13:15:32,294 INFO o.a.j.s.FileServer: Default base='C:\Users\ACER\Downloads\apache-jmeter-5.2.1\bin'
+2023-01-25 13:15:32,296 INFO o.a.j.s.FileServer: Set new base='C:\apache-jmeter-5.4.3\bin'
+2023-01-25 13:15:32,843 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-01-25 13:15:32,882 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-01-25 13:15:32,886 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-01-25 13:15:32,938 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-cmd=2.2, jpgc-casutg=2.9, jpgc-dummy=0.4, jpgc-ggl=2.0, jpgc-fifo=0.2, bzm-parallel=0.11, jpgc-perfmon=2.1, jpgc-plugins-manager=1.6, jmeter-core=5.2.1, jmeter-ftp=5.2.1, jmeter-http=5.2.1, jmeter-jdbc=5.2.1, jmeter-jms=5.2.1, jmeter-junit=5.2.1, jmeter-java=5.2.1, jmeter-ldap=5.2.1, jmeter-mail=5.2.1, jmeter-mongodb=5.2.1, jmeter-native=5.2.1, jmeter-tcp=5.2.1, jmeter-components=5.2.1]
+2023-01-25 13:15:32,957 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-casutg, jpgc-plugins-manager]
+2023-01-25 13:15:32,960 INFO o.a.j.s.SaveService: Loading file: C:\apache-jmeter-5.4.3\bin\JpetstoreNongui.jmx
+2023-01-25 13:15:33,294 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2023-01-25 13:15:33,307 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-01-25 13:15:33,308 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-01-25 13:15:33,308 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-01-25 13:15:33,308 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-01-25 13:15:33,309 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-01-25 13:15:33,309 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-01-25 13:15:33,820 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2023-01-25 13:15:33,821 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\ACER\Downloads\apache-jmeter-5.2.1\bin\proxyserver.jks
+2023-01-25 13:15:33,914 INFO o.a.j.s.FileServer: Set new base='C:\apache-jmeter-5.4.3\bin'
+2023-01-25 13:15:34,278 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-01-25 13:15:34,278 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2023-01-25 13:15:34,278 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-01-25 13:15:34,279 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-01-25 13:15:34,485 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-01-25 13:15:34,668 WARN o.a.j.t.g.GenericTestBeanCustomizer: kg.apc.jmeter.listener.GraphsGeneratorListener#graphWidth(int) has a DEFAULT of class java.lang.String
+2023-01-25 13:15:34,669 WARN o.a.j.t.g.GenericTestBeanCustomizer: kg.apc.jmeter.listener.GraphsGeneratorListener#graphHeight(int) has a DEFAULT of class java.lang.String
+2023-01-25 13:15:34,865 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-01-25 13:15:37,261 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
